@@ -45,11 +45,11 @@ Built with Flask, integrated with the **Spotify OAuth API**, and styled with a c
 )
 
 
-### Mobile View
+### 📱 Mobile View
 
-| Task & Timer                                      | Quotes & Footer                                   |
-|--------------------------------------------------|---------------------------------------------------|
-| ![Mobile 1](![WhatsApp Image 2025-06-13 at 17 10 07_81027258](https://github.com/user-attachments/assets/18ecf977-1848-44fc-bf90-7fc8f83fd6ba)) | ![Mobile 2](![WhatsApp Image 2025-06-13 at 17 10 07_54eb6004(https://github.com/user-attachments/assets/06446cce-9e1c-4b21-9186-36269cd76099)) |
+| Task & Timer | Quotes & Footer |
+|--------------|-----------------|
+| ![Mobile 1](https://github.com/user-attachments/assets/18ecf977-1848-44fc-bf90-7fc8f83fd6ba) | ![Mobile 2](https://github.com/user-attachments/assets/06446cce-9e1c-4b21-9186-36269cd76099) |
 
 ---
 
