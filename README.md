@@ -1,6 +1,6 @@
 # 🎧 Control+Shift+Mood — Mood-Based Spotify Playlist Generator
 
-** Control+Shift+Mood** is a full-stack web app that lets you generate Spotify playlists based on your emotional journey — from one mood to another (e.g., Calm ➝ Energetic).
+**Control+Shift+Mood** is a full-stack web app that lets you generate Spotify playlists based on your emotional journey — from one mood to another (e.g., Calm ➝ Energetic).
 
 Built with Flask, integrated with the **Spotify OAuth API**, and styled with a clean pastel-glass aesthetic, this app curates songs from a mood-tagged dataset and saves them directly to your Spotify account.
 
@@ -31,24 +31,25 @@ Built with Flask, integrated with the **Spotify OAuth API**, and styled with a c
 
 ## 🔗 Live Demo
 
-👉[ [https://moodwave-xyz.onrender.com] (https://moodwave-jxlc.onrender.com/create)]
+👉 (https://moodwave-jxlc.onrender.com/create)]
 
 ---
 
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot]![Screenshot 2025-06-13 172852](https://github.com/user-attachments/assets/ca8cbef6-8f1a-436a-8515-941a611ea657)
+
+![Screenshot 1](![Screenshot 2025-06-13 172852](https://github.com/user-attachments/assets/bf20acaa-575e-4902-9654-f3839ef9ebb3)
 )
-![Desktop Screenshot](![image](https://github.com/user-attachments/assets/ad5184d6-fbe5-4681-b9be-406a562f0232)
+![Screenshot 2](![Screenshot 2025-06-13 173720](https://github.com/user-attachments/assets/2badeb80-f1bd-4261-8988-05b0b4545185)
 )
 
-### 📱 Mobile View  
-| Task Selection | Playlist Output |
-|----------------|-----------------|
-| ![Mobile 1](![WhatsApp Image 2025-06-13 at 17 10 06_3d688470](https://github.com/user-attachments/assets/55337005-2829-4628-b19d-6481cacc2119)
-) | ![Mobile 2](![WhatsApp Image 2025-06-13 at 17 10 06_90d1a723](https://github.com/user-attachments/assets/bcda712b-b66e-4273-9ebc-c8a875d8086b)
-) |
+
+### Mobile View
+
+| Task & Timer                                      | Quotes & Footer                                   |
+|--------------------------------------------------|---------------------------------------------------|
+| ![Mobile 1](![WhatsApp Image 2025-06-13 at 17 10 07_81027258](https://github.com/user-attachments/assets/18ecf977-1848-44fc-bf90-7fc8f83fd6ba)) | ![Mobile 2](![WhatsApp Image 2025-06-13 at 17 10 07_54eb6004(https://github.com/user-attachments/assets/06446cce-9e1c-4b21-9186-36269cd76099)) |
 
 ---
 
