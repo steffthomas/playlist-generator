@@ -31,7 +31,7 @@ Built with Flask, integrated with the **Spotify OAuth API**, and styled with a c
 
 ## 🔗 Live Demo
 
-👉 (https://moodwave-jxlc.onrender.com/create)]
+👉 ([https://moodwave-jxlc.onrender.com/create](https://moodwave-jxlc.onrender.com))]
 
 ---
 
